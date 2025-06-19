@@ -1,6 +1,6 @@
 # 💬  Python Chat App
 
-A lightweight and beginner-friendly chat application built with **Python Flask** and **SQLite**. Users can sign up, log in, and chat in a shared dashboard. You can also delete your own messages. Built with clean Tailwind CSS styling — no external JS frameworks.
+A lightweight chat application built with **Python Flask** and **SQLite**. Users can sign up, log in, and chat in a shared dashboard. You can also delete your own messages. Built with clean Tailwind CSS styling — no external JS frameworks.
 
 ---
 
